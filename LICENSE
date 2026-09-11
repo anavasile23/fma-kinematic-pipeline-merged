@@ -1,0 +1,41 @@
+FMA Kinematic Analysis Pipeline License
+Copyright (c) 2026 Ana M. Vasile
+
+This license governs use of the accompanying software ("the Software").
+
+1. PERMITTED USE (NON-COMMERCIAL)
+   Permission is granted, free of charge, to any person obtaining a copy of
+   the Software, to use, copy, modify, merge, and distribute the Software,
+   for non-commercial purposes only, subject to the conditions below.
+
+   "Non-commercial" means use that is not intended for or directed toward
+   commercial advantage or monetary compensation. This includes academic
+   research, education, personal projects, and clinical research that is
+   not sold or licensed for profit.
+
+2. ATTRIBUTION REQUIRED
+   Any use, distribution, or derivative work of the Software, in whole or
+   in part, must include clear and visible credit to the original author
+   (Ana M. Vasile) and a link to the original repository, in any
+   accompanying documentation, publication, presentation, or source code.
+
+3. COMMERCIAL USE REQUIRES PERMISSION
+   Any commercial use of the Software, including but not limited to
+   selling, sublicensing, incorporating into a commercial product or
+   service, or use by a for-profit entity for revenue-generating purposes,
+   requires prior written permission from the author. To request
+   permission, contact the author through the GitHub repository.
+
+4. NO WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+   OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+   IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+   LIABILITY ARISING FROM THE USE OF THE SOFTWARE.
+
+5. CLINICAL USE DISCLAIMER
+   This Software is a research pipeline and has not been validated as a
+   clinical diagnostic or assessment instrument. It is intended to
+   complement, not replace, standardised clinical assessment protocols
+   such as the Fugl-Meyer Assessment. Any clinical application is at the
+   user's own risk and responsibility.
